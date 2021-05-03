@@ -13,6 +13,11 @@
 
 - ⚡ Fun fact: **I love UI/UX and Human computer Interaction**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunad30&show_icons=true&locale=en&layout=compact" alt="sunad30" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunad30&show_icons=true&locale=en" alt="sunad30" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sunad suhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sunad suhas" height="30" width="40" /></a>
