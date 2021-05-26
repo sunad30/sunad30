@@ -11,8 +11,7 @@
 
 - ⚡ Fun fact: **I love UI/UX and Human computer Interaction**
 
-<a href="https://github.com/sunad30">
-<img align="center" alt="ishita's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sunad30&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" /></a>
+
 
 <a href="https://github.com/sunad30">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunad30&layout=compact&theme=dark" />
