@@ -43,7 +43,7 @@
 ### 🌐 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/sunad-suhas-0b788b1a3/" target="blank">
+  <a href="https://www.linkedin.com/in/sunad-s-0b788b1a3/" target="blank">
     <img align="center" src="https://img.icons8.com/color/32/linkedin.png" alt="linkedin" />
   </a>
   <a href="https://stackoverflow.com/users/15839232/sunad-suhas" target="blank">
