@@ -1,34 +1,55 @@
 <h1 align="left">Hi 👋, I'm Sunad Suhas</h1>
-<h3 align="left">A passionate Computer Science Engineer</h3>
+<h3 align="left">Software Engineer Intern @ Civic | MS CS @ SUNY Buffalo | AI, Data & Fullstack Developer</h3>
 
-- 🔭 I’m currently working on: **a number of projects one of which is developing Android Applications**
+- 🔭 I’m currently working on: **building full-stack web apps, LLM-powered tools, and data engineering pipelines**
+- 🧠 Learning more about: **LLMs, MLOps, and distributed data systems**
+- 👨‍🏫 Graduate Student Assistant for **CSE 462/562 - Database Systems**
+- 💬 Ask me about: **LangChain, Python, Neo4j, React, Node.js, Airflow, SQL, Docker**
+- 📫 Reach me at: **sunad30@gmail.com**
+- ⚡ Fun fact: I love designing intuitive interfaces and optimizing backend logic equally!
 
-- 🌱 I’m currently learning: **UI/UX development for Mobile and web**
+---
 
-- 💬 Ask me about: **Flutter, Dart, Android Studio, python, MySQL, Figma, Adobe xD**
+### 🧠 Recent Projects
+- 🚀 [Conversational RAG Assistant](https://github.com/sunad30) – LangChain + GPT-4 + Pinecone
+- 📄 [AI Resume Evaluator](https://github.com/sunad30) – LLM-based resume scoring with Streamlit
+- 🧠 [LangChain Tools Explorer](https://github.com/sunad30) – Agentic LLM with tool integration (search, calculator, parser)
 
-- 📫 How to reach me: **Drop a mail at sunad30@gmail.com**
-
-- ⚡ Fun fact: **I love UI/UX and Human computer Interaction**
-
-
+---
 
 <a href="https://github.com/sunad30">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunad30&layout=compact&theme=dark" />
 </a>
 
-### Languages and Tools
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 💻 Tech Stack
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
+---
 
-  
-### Connect with me
+### 🌐 Connect with me
+
 <p>
-
-<a href="https://www.linkedin.com/in/sunad-suhas-0b788b1a3/" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png" alt="sunad-suhas-0b788b1a3" height="30" width="30" /></a>
-<a href="https://www.instagram.com/sunad_suhas/" target="blank"><img align="center" src="https://img.icons8.com/fluent/32/000000/instagram-new.png" alt="sunad_suhas" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/15839232/sunad-suhas?tab=profile" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="13777130" height="30" width="30" /></a>
-
-
+  <a href="https://www.linkedin.com/in/sunad-suhas-0b788b1a3/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/32/linkedin.png" alt="linkedin" />
+  </a>
+  <a href="https://stackoverflow.com/users/15839232/sunad-suhas" target="blank">
+    <img align="center" src="https://img.icons8.com/color/32/stackoverflow.png" alt="stackoverflow" />
+  </a>
+  <a href="https://www.instagram.com/sunad_suhas/" target="blank">
+    <img align="center" src="https://img.icons8.com/fluent/32/instagram-new.png" alt="instagram" />
+  </a>
+</p>
