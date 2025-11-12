@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sunad Suhas</h1>
-<h3 align="left">Software Engineer Intern @ Civic | MS CS @ SUNY Buffalo | AI, Data & Fullstack Developer</h3>
+<h3 align="left">Software Engineer @ Civic | MS CS @ SUNY Buffalo | AI, Data & Fullstack Developer</h3>
 
 - 🔭 I’m currently working on: **building full-stack web apps, LLM-powered tools, and data engineering pipelines**
 - 🧠 Learning more about: **LLMs, MLOps, and distributed data systems**
