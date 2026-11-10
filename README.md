@@ -8,7 +8,7 @@ AI-powered features, and data pipelines.
 
 [Portfolio](https://sunadsuhas.com) ·
 [LinkedIn](https://www.linkedin.com/in/sunadsuhas/) ·
-[Email](mailto:sunad30@gmail.com)
+[sunad30@gmail.com](mailto:sunad30@gmail.com)
 
 ## 🔭 What I work on
 
