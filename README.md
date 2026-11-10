@@ -1,55 +1,71 @@
-<h1 align="left">Hi 👋, I'm Sunad Suhas</h1>
-<h3 align="left">Software Engineer @ Civic | MS CS @ SUNY Buffalo | AI, Data & Fullstack Developer</h3>
+# Hi, I'm Sunad Suhas 👋
 
-- 🔭 I’m currently working on: **building full-stack web apps, LLM-powered tools, and data engineering pipelines**
-- 🧠 Learning more about: **LLMs, MLOps, and distributed data systems**
-- 👨‍🏫 Graduate Student Assistant for **CSE 462/562 - Database Systems**
-- 💬 Ask me about: **LangChain, Python, Neo4j, React, Node.js, Airflow, SQL, Docker**
-- 📫 Reach me at: **sunad30@gmail.com**
-- ⚡ Fun fact: I love designing intuitive interfaces and optimizing backend logic equally!
+**Senior Software Engineer at Civic Group Inc. | Full-Stack, Backend & Applied AI**
 
----
+I build software that makes complicated work easier for people.
+My experience spans full-stack applications, backend integrations,
+AI-powered features, and data pipelines.
 
-### 🧠 Recent Projects
-- 🚀 [Conversational RAG Assistant](https://github.com/sunad30) – LangChain + GPT-4 + Pinecone
-- 📄 [AI Resume Evaluator](https://github.com/sunad30) – LLM-based resume scoring with Streamlit
-- 🧠 [LangChain Tools Explorer](https://github.com/sunad30) – Agentic LLM with tool integration (search, calculator, parser)
+[Portfolio](https://sunadsuhas.com) ·
+[LinkedIn](https://www.linkedin.com/in/sunadsuhas/) ·
+[Email](mailto:sunad30@gmail.com)
 
----
+## 🔭 What I work on
 
-<a href="https://github.com/sunad30">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunad30&layout=compact&theme=dark" />
-</a>
+At **Civic Group Inc.**, I build software for congressional and city
+government offices. I own features from database design and backend
+APIs through user interfaces, testing, and rollout.
 
----
+My work includes:
 
-### 💻 Tech Stack
+- Task management and scheduling using TypeScript, React, Node.js,
+  PostgreSQL, Prisma, and tRPC.
+- Case-management workflows connecting constituent requests,
+  correspondence, agency follow-ups, and NYC 311 service tracking.
+- Staff access controls and Slack/Microsoft Teams integrations
+  using OAuth, encrypted token storage, and key rotation.
+- In-product AI assistance using LangChain and retrieval-augmented
+  generation, alongside sentiment analysis in communication workflows.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+Previously, at **Microchip Technology**, I built:
 
----
+- A Neo4j-based inventory reserves engine that contributed to
+  **$40M+ in cost savings** and **90% less manual effort**.
+- Data pipelines integrating **6+ enterprise systems** and
+  accelerating report generation by **3×**.
+- A Python and Cypher testing framework to validate financial
+  calculations against expected results.
+- A .NET Core investment-analysis application delivered to
+  **100+ stakeholders**, supporting **$10M+ in capital planning**.
 
-### 🌐 Connect with me
+[Explore the work and its impact →](https://sunadsuhas.com/#work)
 
-<p>
-  <a href="https://www.linkedin.com/in/sunad-s-0b788b1a3/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/32/linkedin.png" alt="linkedin" />
-  </a>
-  <a href="https://stackoverflow.com/users/15839232/sunad-suhas" target="blank">
-    <img align="center" src="https://img.icons8.com/color/32/stackoverflow.png" alt="stackoverflow" />
-  </a>
-  <a href="https://www.instagram.com/sunad_suhas/" target="blank">
-    <img align="center" src="https://img.icons8.com/fluent/32/instagram-new.png" alt="instagram" />
-  </a>
-</p>
+## 💻 Technologies I use
+
+| Area | Technologies |
+| --- | --- |
+| Full-stack | TypeScript, JavaScript, React, Next.js, Node.js |
+| APIs and integrations | tRPC, Prisma, OAuth, .NET Core |
+| Data engineering | Python, SQL, Cypher, Neo4j, Apache Airflow |
+| Databases | PostgreSQL, Oracle, SQL Server |
+| Applied AI | OpenAI API, LangChain, RAG |
+| Infrastructure and delivery | AWS, Docker, GitHub Actions, Azure DevOps |
+
+## ⚡ A little more about me
+
+- MS in Computer Science from the **University at Buffalo**.
+- Previously a Graduate Student Assistant (Grader) for
+  **CSE 462/562 — Database Systems**.
+- I spent part of my childhood in Japan, where my interest in
+  technology began.
+- I enjoy understanding the people behind a technical requirement
+  and following a problem through to a working solution.
+
+## 🌐 Let's connect
+
+I'm open to software engineering opportunities worldwide,
+including remote, hybrid, and on-site roles.
+
+[LinkedIn](https://www.linkedin.com/in/sunadsuhas/) ·
+[Portfolio](https://sunadsuhas.com) ·
+[sunad30@gmail.com](mailto:sunad30@gmail.com)
