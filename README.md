@@ -66,6 +66,6 @@ Previously, at **Microchip Technology**, I built:
 I'm open to software engineering opportunities worldwide,
 including remote, hybrid, and on-site roles.
 
-[LinkedIn](https://www.linkedin.com/in/sunadsuhas/) ·
 [Portfolio](https://sunadsuhas.com) ·
+[LinkedIn](https://www.linkedin.com/in/sunadsuhas/) ·
 [sunad30@gmail.com](mailto:sunad30@gmail.com)
